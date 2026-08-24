@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zkaoudi.github.io/sitemap.xml
