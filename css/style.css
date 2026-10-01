@@ -9872,4 +9872,10 @@ h3 {
   list-style-type: none;
 }
 
+.news-scroll {
+    max-height: 300px;      /* adjust to show as many items as you like */
+    overflow-y: auto;
+    padding-right: 10px;    /* keeps text from touching the scrollbar */
+}
+
 /*# sourceMappingURL=style.css.map */
